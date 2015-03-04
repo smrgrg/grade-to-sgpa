@@ -1,4 +1,4 @@
-# grade-to-sgpa
+
 <h2>grade-to-sgpa</h2>
 <h2>A simple program to convert Grade to SGPA developed in php.</h2>
 
